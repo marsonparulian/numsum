@@ -56,3 +56,18 @@ When starting a game, the following steps will occur:
 5. The player has 5 attempts to make a mistake before the game ends.
 6. If the player correctly guesses all numbers, the `gameWon` function will be executed, displaying an animation to celebrate the victory.
 7. After each game, the difficulty level will adjust based on the player's performance and the **Challenge Increase Rate** set in the settings.
+
+## Installation
+NumSum is a Progressive Web Application (PWA). You can install it directly from your web browser:
+
+1. Visit the game's URL.
+2. Click the "Install" or "Add to Home Screen" option in your browser.
+3. Enjoy offline gameplay!
+
+## Future Enhancements
+- Additional gameplay modes for varied challenges.
+- A leaderboard to track high scores.
+- Improved animations and sound effects for a more engaging experience.
+
+## License
+NumSum is released under the MIT License. See LICENSE for more information.
